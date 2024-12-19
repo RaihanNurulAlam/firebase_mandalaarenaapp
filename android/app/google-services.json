@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "945701944865",
+    "project_id": "fir-mandalaarenaapp",
+    "storage_bucket": "fir-mandalaarenaapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945701944865:android:3f79caa793460172f22d60",
+        "android_client_info": {
+          "package_name": "com.example.firebase_mandalaarenaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXOUEDS_CZZ_PDIEi_saJ1_qY21JdRs74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945701944865:android:67e1268192488851f22d60",
+        "android_client_info": {
+          "package_name": "com.mandalaarenaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXOUEDS_CZZ_PDIEi_saJ1_qY21JdRs74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
